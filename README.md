@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @meilav
+- 👋 Hi, I’m Meila
 - 👀 I’m interested in PHP, SQL, R, Python
 - 🌱 I’m currently learning Data Science, Machine Learning, NLP
 - 💞️ I’m looking to collaborate on any interesting projects regarding all those fields.
